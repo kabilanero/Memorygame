@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-    <h1>Memory Game</h1>
+    <h1 className='gamename'>Memory Game</h1>
      <Memory/>
     </>
   )
